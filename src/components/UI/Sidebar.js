@@ -1,7 +1,7 @@
 import React from 'react'
 import { NavLink } from 'react-router-dom'
 
-const activeClassName=({isActive}) => (isActive ? "text-yellow-500 p-1 block hover:bg-yellow-500 hover:text-gray-800" : "text-gray-400 p-1 block hover:bg-yellow-500 hover:text-gray-800 ")
+const activeClassName=({isActive}) => (isActive ? "ml-3 text-yellow-500 p-1 block hover:bg-yellow-500 hover:text-gray-800" : " ml-3 text-gray-400 p-1 block hover:bg-yellow-500 hover:text-gray-800 ")
 
 const Sidebar = () => {
 

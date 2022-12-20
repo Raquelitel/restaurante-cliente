@@ -26,7 +26,7 @@ const Plate = ({plate}) => {
         <div className='p-5 shadow-md bg-white'>
             <div className='lg:flex'>
                 <div className='lg:w-5/12 xl:w-3/12'>
-                    <img src={imagen} className="max-h-48 w-full" alt="imagen producto"/>
+                    <img src={imagen} className="max-h-60 w-full" alt="imagen producto"/>
                     <div className='sm:flex sm:-mx-2 pl-2'>
                         <label className='block mt-5 sm:w-2/4'>
                             <span className='block text-gray-800 mb-2'>Existencia</span>

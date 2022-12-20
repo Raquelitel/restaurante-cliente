@@ -31,7 +31,7 @@ const Menu = () => {
 
   return (
     <>
-      <div>Menu</div>
+        <p className='uppercase text-slate-900 text-3xl text-center tracking-wide font-bold'>Menú</p>
       <Link to="/new-plate" className='bg-sky-800 hover:bg-sky-700, inline-block mb-5 p-2 text-white uppercase font-bold '>
         Agregar Plato
       </Link>
