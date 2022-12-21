@@ -6,9 +6,6 @@ import Sidebar from "./components/UI/Sidebar";
 import Menu from "./components/views/Menu";
 import NewPlate from "./components/views/NewPlate";
 import Ordens from "./components/views/Ordens";
-import { useEffect } from "react";
-
-
 
 function App() {
 
