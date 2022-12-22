@@ -42,4 +42,4 @@ Github
 #### Aplicación web:
 
 1. Instalar los paquetes: `$ npm install`
-2. Comienza a codificar! inicia el servidor de desarrollo de webpack `$ npm run start`
+2. Comienza a codificar!  `$ npm run start`
